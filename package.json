@@ -37,6 +37,7 @@
     "underscore": "1.8.3"
   },
   "devDependencies": {
+    "cypress": "^6.2.1",
     "newman": "^3.8.2",
     "nodemon": "^1.11.0"
   }
